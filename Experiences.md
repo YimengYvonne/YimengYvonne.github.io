@@ -4,7 +4,7 @@ permalink: /Experiences/index.html
 title: Experiences
 ---
 ## Working Experience
-- Dynamic Risk Prediction on a Longitudinal Biomarker
+- **Sept 2023 - Dec 2023**Dynamic Risk Prediction on a Longitudinal Biomarker
 
 ## Scholarships
 
@@ -21,7 +21,7 @@ title: Experiences
 - **Linear Models**<br>SP22-DS-64510
 
 ### Services
-- **Jul2020-Dec2020** Team Captain for APP development
-- **Sep2020-Nov2020** Group Leader in Smart Car Competition
-- **Sep2018-Jun2019** Director of Propaganda Department in Student Union
+- **Jul 2020 - Dec 2020** Team Captain for APP development
+- **Sep 2020 - Nov 2020** Group Leader in Smart Car Competition
+- **Sep 2018 - Jun 2019** Director of Propaganda Department in Student Union
 <br>
