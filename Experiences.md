@@ -12,7 +12,11 @@ title: Experiences
 <br>
 
 ## Honors
-
+- The Third Prize in The Fifteenth National College Student Smart Car Competition 2020
+- Merit Student (awarded for top academic performance in USTB) 2018--2019
+- People's Third-class Scholarship (awarded for top academic performance in USTB) 2018--2019
+- Excellent Student Leader (awarded for leadership among students’ organization in USTB) 2017--2018
+- People's Second-class Scholarship (awarded for top academic performance in USTB) 2017--2018
 <br>
 
 ## Others
