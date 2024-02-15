@@ -8,21 +8,20 @@ layout: page
 
 Here is **Yimeng Wang**. My preferred name is Yvonne.
 
-I am a first year P.hD student majoring in **CS** at William \& Mary. Currently, I am advised by [Prof. Yixuan Zhang](https://zjanice.github.io/). 
+I am a first year Ph.D student majoring in **CS** at William \& Mary. Currently, I am advised by [Prof. Yixuan Zhang](https://zjanice.github.io/). 
 
 My research interests lie at the intersection of **Human-Computer Interaction (HCI)** and **Artificial Intelligence**, with a particular focus on the dynamics of Human-Large Language Model (LLM) Interaction. My work also encompasses the development and ethical considerations of advanced machine learning and deep learning models, aiming to enhance the capabilities and integrity of LLM agents in various applications. Through this multidisciplinary approach, I seek to contribute to the evolution of ethical, effective, and user-centric technology solutions.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *ywang139[at]wm[dot]edu*
 
+## News
+- 
+
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-
-Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Looking for PhD position after that.
+- **Jan 2024 - Now:** William & Mary <br>Computer Science
+- **Sep 2021 - Dec 2023:** University of Notre Dame<br>Statistics
+- **Sep 2017 - June 2021:** University of Science and Technology Beijing<br>Information and Computing Science
 
 <br>
 
