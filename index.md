@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://YimengYvonne.github.io/mypic.jpg" class="floatpic" width="340" height="480">
+<img src="https://YimengYvonne.github.io/mypic.jpg" class="floatpic" width="200" height="340">
 
 Here is **Hanlin Cai (Lance, 蔡汉霖)**.
 
