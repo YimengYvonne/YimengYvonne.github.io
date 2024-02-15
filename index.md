@@ -6,11 +6,13 @@ layout: page
 
 <img src="https://YimengYvonne.github.io/mypic.jpg" class="floatpic" width="200" height="340">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Yimeng Wang**. My preferred name is Yvonne.
 
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**. I will be attending AAAI-24 in Vancouver, please feel free to chat with me.
+I am a first year P.hD student majoring in **CS** at William \& Mary. Currently, I am advised by [Prof. Yixuan Zhang](https://zjanice.github.io/). 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+My research interests lie at the intersection of **Human-Computer Interaction (HCI)** and **Artificial Intelligence**, with a particular focus on the dynamics of Human-Large Language Model (LLM) Interaction. My work also encompasses the development and ethical considerations of advanced machine learning and deep learning models, aiming to enhance the capabilities and integrity of LLM agents in various applications. Through this multidisciplinary approach, I seek to contribute to the evolution of ethical, effective, and user-centric technology solutions.
+
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *ywang139[at]wm[dot]edu*
 
 ## Academic Background
 
