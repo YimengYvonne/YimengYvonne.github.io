@@ -15,5 +15,5 @@ title: Awards
 
 ## Services
 ### Teaching Assistant
-
+- **Scientific Computing with Python** FA23-ACMS-20220<br>Fall 2023
 <br>
