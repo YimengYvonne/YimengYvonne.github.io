@@ -8,7 +8,7 @@ layout: page
 
 Here is **Yimeng Wang**. My preferred name is Yvonne.
 
-I am a first year Ph.D student majoring in **CS** at William \& Mary. Currently, I am advised by [Prof. Yixuan Zhang](https://zjanice.github.io/). 
+I am a first year Ph.D student majoring in **CS** at William & Mary. Currently, I am advised by [Prof. Yixuan Zhang](https://zjanice.github.io/). 
 
 My research interests lie at the intersection of **Human-Computer Interaction (HCI)** and **Artificial Intelligence**, with a particular focus on the dynamics of Human-Large Language Model (LLM) Interaction. My work also encompasses the development and ethical considerations of advanced machine learning and deep learning models, aiming to enhance the capabilities and integrity of LLM agents in various applications. Through this multidisciplinary approach, I seek to contribute to the evolution of ethical, effective, and user-centric technology solutions.
 
