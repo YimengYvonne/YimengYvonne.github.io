@@ -15,5 +15,7 @@ title: Awards
 
 ## Services
 ### Teaching Assistant
-- **Scientific Computing with Python** FA23-ACMS-20220<br>Fall 2023
+- **Scientific Computing with Python**<br>FA23-ACMS-20220
+- **Behaviour Data Science**<br>FA23-DS-60632
+- **Linear Models**<br>SP22-DS-64510
 <br>
