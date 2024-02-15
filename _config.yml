@@ -30,15 +30,15 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Teams
-    url: /teams/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  #- title: Teams
+  #  url: /teams/
+  #- title: Hobbies
+  #  url: /hobbies/
+  #- title: Blogs
+  #  url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: USA/EST
 future: true
 highlighter: rouge
 # markdown: kramdown
