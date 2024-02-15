@@ -4,7 +4,7 @@ permalink: /Experiences/index.html
 title: Experiences
 ---
 ## Working Experience
-- **Sept 2023 - Dec 2023**Dynamic Risk Prediction on a Longitudinal Biomarker
+- **Sept 2023 - Dec 2023** Dynamic Risk Prediction on a Longitudinal Biomarker
 
 ## Scholarships
 
