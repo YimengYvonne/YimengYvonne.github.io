@@ -20,7 +20,7 @@ title: Awards
 - **Linear Models**<br>SP22-DS-64510
 
 ### Services
-- **2020** Team Captain for APP development
-- **2020** Group Leader in Smart Car Competition
-- **2018-2019** Director of Propaganda Department in Student Union
+- **Jul2020-Dec2020** Team Captain for APP development
+- **Sep2020-Nov2020** Group Leader in Smart Car Competition
+- **Sep2018-Jun2019** Director of Propaganda Department in Student Union
 <br>
