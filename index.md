@@ -17,9 +17,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **Jan 2024 - Now:** William & Mary <br>Ph.D student in Computer Science
-- **Sep 2021 - Dec 2023:** University of Notre Dame<br>Ph.D candidate in Statistics
-- **Sep 2017 - June 2021:** University of Science and Technology Beijing<br>B.S. Information and Computing Science
+- **Jan 2024 - Now:** William & Mary <br>Ph.D Student in Computer Science
+- **Sep 2021 - Dec 2023:** University of Notre Dame<br>Ph.D Candidate in Statistics
+- **Sep 2017 - June 2021:** University of Science and Technology Beijing<br>B.S. in Information and Computing Science
 
 <br>
 
