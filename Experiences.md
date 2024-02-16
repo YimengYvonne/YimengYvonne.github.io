@@ -4,8 +4,8 @@ permalink: /Experiences/index.html
 title: Experiences
 ---
 ## Working Experience
-- **Sept 2023 - Dec 2023** Dynamic Risk Prediction on a Longitudinal Biomarker<br>Northwestern University<br>Predicted the future risk with machine learning and deep learning methods
-- **Jun 2023 - Aug 2023** Testing Homogeneity between Sparse Functional Data<br>University of Notre Dame<br>Developed R package with *Rcpp*
+- **Dynamic Risk Prediction on a Longitudinal Biomarker**<br>Sept 2023 - Dec 2023<br>Northwestern University<br>Predicted the future risk with machine learning and deep learning methods
+- **Testing Homogeneity between Sparse Functional Data**<br>Jun 2023 - Aug 2023<br>University of Notre Dame<br>Developed R package with *Rcpp*
 
 ## Scholarships
 
