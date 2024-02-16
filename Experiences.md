@@ -26,7 +26,7 @@ title: Experiences
 - **Linear Models**<br>SP22-DS-64510
 
 ### Services
-- **Jul 2020 - Dec 2020** Team Captain for APP development
-- **Sep 2020 - Nov 2020** Group Leader in Smart Car Competition
-- **Sep 2018 - Jun 2019** Director of Propaganda Department in Student Union
+- **Team Captain for APP development** Jul 2020 - Dec 2020
+- **Group Leader in Smart Car Competition** Sep 2020 - Nov 2020
+- **Director of Propaganda Department in Student Union** Sep 2018 - Jun 2019
 <br>
