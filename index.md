@@ -40,6 +40,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## News and Updates
 
 - **Feb 2024**: Very excited to be selected as [CRA-WP](https://cra.org/cra-wp/grad-cohort-for-women/).
-- **Jan 2024**: Our paper has been accepted to *CHI24*, see you in Hawai!
+- **Jan 2024**: Our paper has been accepted to *CHI24*, see you in Hawaii!
 
 <br>
