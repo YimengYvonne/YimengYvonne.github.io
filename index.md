@@ -39,7 +39,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## News and Updates
 
+- **Apr 2024**: Our paper has been accepted to *L@S'24*. Cong!
 - **Feb 2024**: Very excited to be selected to attend [CRA-WP](https://cra.org/cra-wp/grad-cohort-for-women/).
-- **Jan 2024**: Our paper has been accepted to *CHI24*, see you in Hawaii!
+- **Jan 2024**: Our paper has been accepted to *CHI'24*, see you in Hawai'i!
 
 <br>
