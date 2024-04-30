@@ -10,7 +10,7 @@ title: Experiences
 
 ## Scholarships
 
-- Research Graduate Studies Advisory Board (GSAB) "Seed Grants” of W&M
+- **"Seed Grants"** of W&M from Research Graduate Studies Advisory Board (GSAB)
 <br>
 
 ## Honors
