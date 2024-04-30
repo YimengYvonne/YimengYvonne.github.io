@@ -13,15 +13,15 @@ I am a first year Ph.D student majoring in **CS** at William & Mary. I am advise
 My research interests lie at the intersection of **Human-Computer Interaction (HCI)** and **Artificial Intelligence**, with a particular focus on the dynamics of Human-Large Language Model (LLM) Interaction. My work also encompasses the development and ethical considerations of advanced machine learning and deep learning models, aiming to enhance the capabilities and integrity of LLM agents in various applications. Through this multidisciplinary approach, I seek to contribute to the evolution of ethical, effective, and user-centric technology solutions.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *ywang139[at]wm[dot]edu*
+<br>
 
+---
 
 ## Academic Background
 
 - **Jan 2024 - Now:** William & Mary <br>Ph.D Student in Computer Science
 - **Sep 2021 - Dec 2023:** University of Notre Dame<br>Master in Statistics 
 - **Sep 2017 - June 2021:** University of Science and Technology Beijing<br>B.S. in Information and Computing Science
-
-<br>
 
 ---
 
@@ -32,8 +32,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Deep learning
 - LLM
 - Data Visualization
-
-<br>
 
 ---
 
