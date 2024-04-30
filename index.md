@@ -39,6 +39,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Projects
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NtqeTqR3FNA?si=dmHrhokuKg0TnvAd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## News and Updates
