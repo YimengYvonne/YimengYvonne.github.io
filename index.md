@@ -44,7 +44,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 
 ## News and Updates
-
+- **Jan 2025**: Our paper has been accepted to *CHI'25*, see you in Japan! Btw, I am the CHI SV as well, try to find me LOL.
 - **Apr 2024**: Received a research grant from Research Graduate Studies Advisory Board (GSAB) "Seed Grants” of W&M.
 - **Apr 2024**: Our paper has been accepted to *L@S'24*. Cong!
 - **Feb 2024**: Very excited to be selected to attend [CRA-WP](https://cra.org/cra-wp/grad-cohort-for-women/).
