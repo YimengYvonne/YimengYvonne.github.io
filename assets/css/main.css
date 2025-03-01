@@ -61,10 +61,6 @@ a:visited {
 }
 
 /* Headings */
-h1 {
-    font-size: 2em;
-    margin: 2em 0;
-}
 h1, h2, h3, h4, h5, h6 {
     color: #333332;
     font-family: 'PT Sans Narrow', sans-serif;
