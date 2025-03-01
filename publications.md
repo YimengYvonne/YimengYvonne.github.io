@@ -14,13 +14,13 @@ title: Publications
 
 
 
-  <br>
+
 
 ## Journal Paper
 
 - [Evaluating an LLM-Powered Chatbot for Cognitive Restructuring: Insights from Mental Health Professionals.](https://arxiv.org/abs/2501.15599)<br>*To be released*<br>Yinzhou Wang, **Yimeng Wang**, Ye Xiao, Liabette Escamilla, Bianca Augustine, Kelly Crace, Gang Zhou, Yixuan Zhang
 
-  <br>
+
 
 
 
