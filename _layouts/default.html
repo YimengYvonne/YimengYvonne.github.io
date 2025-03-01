@@ -1,3 +1,6 @@
+<!-- Lastly modified by Hanlin CAI in 2023/04/26 -->
+<!-- It is not recommended to modify this code, unless you are a Pro-->
+
 <!doctype html>
 <!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
@@ -5,125 +8,117 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 
 <head>
-{% include head.html %}
-
-<script src="https://cdn.counter.dev/script.js" data-id="4c8f7caa-2b55-46cd-a995-2c4633303773" data-utcoffset="8"></script>
-
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T5N5JY1E21"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-T5N5JY1E21');
-</script>
-
-<style>
-/* ============================= */
-/* Modal Styles for Author Bio   */
-/* ============================= */
-.modal {
-    display: none; /* Hidden by default */
-    position: fixed;
-    z-index: 1000;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    overflow: auto;
-    background-color: rgba(0, 0, 0, 0.4);
-}
-
-/* Modal Content */
-.modal-content {
-    background-color: white;
-    margin: 15% auto;
-    padding: 20px;
-    border-radius: 8px;
-    width: 80%;
-    max-width: 400px;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
-}
-
-/* Close Button */
-.close-btn {
-    color: #aaa;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
-    cursor: pointer;
-}
-.close-btn:hover {
-    color: black;
-}
-</style>
-
+  {% include head.html %}
+  
+  <script src="https://cdn.counter.dev/script.js" data-id="4c8f7caa-2b55-46cd-a995-2c4633303773" data-utcoffset="8"></script>
+  
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T5N5JY1E21"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-T5N5JY1E21');
+  </script>
+  
+  <!-- Modal CSS for Author Bio (added without affecting existing layout) -->
+  <style>
+    .modal {
+      display: none; /* Hidden by default */
+      position: fixed;
+      z-index: 1000;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgba(0,0,0,0.4);
+    }
+    .modal-content {
+      background-color: #fff;
+      margin: 15% auto;
+      padding: 20px;
+      border-radius: 8px;
+      width: 80%;
+      max-width: 400px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    }
+    .close-btn {
+      color: #aaa;
+      float: right;
+      font-size: 28px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    .close-btn:hover {
+      color: #000;
+    }
+  </style>
+  
 </head>
 
 <body class="page" itemscope itemtype="http://schema.org/WebPage">
 
-{% include chrome-frame.html %}
-{% include navigation.html %}
-
-{% if page.image.feature %}
-<div class="image-wrap">
-  <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
-</div><!-- /.image-wrap -->
-{% endif %}
-
-<div id="main" role="main" itemprop="mainContentOfPage">
-  <div class="article-author-top">
-    {% include author-bio.html %}
-  </div>
-  <article itemscope itemtype="http://schema.org/CreativeWork">
-    <div class="headline-wrap">
-      <h1 itemprop="headline">{{ page.title }}</h1>
-    </div><!--/ .headline-wrap -->
-    <div class="article-wrap" itemprop="text">
-      {{ content }}
-    </div><!-- /.article-wrap -->
-  </article>
-</div><!-- /#index -->
-
-<!-- Author Bio Modal (Hidden by Default) -->
-<div id="authorBioModal" class="modal">
-    <div class="modal-content">
-        <span class="close-btn" onclick="closeBio()">&times;</span>
-        {% include author-bio.html %}
+  {% include chrome-frame.html %}
+  
+  {% include navigation.html %}
+  
+  {% if page.image.feature %}
+  <div class="image-wrap">
+    <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
+  </div><!-- /.image-wrap -->
+  {% endif %}
+  
+  <div id="main" role="main"  itemprop="mainContentOfPage">
+    <div class="article-author-top">
+      {% include author-bio.html %}
     </div>
-</div>
-
-<div class="footer-wrap">
-  <footer>
-    {% include footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
-
-<script>
-/* ========================================== */
-/* JavaScript to Handle Author Bio Pop-up     */
-/* ========================================== */
-function openBio(event) {
-    if (window.innerWidth < 800) {
-        event.preventDefault(); // Stop navigation
+    <article itemscope itemtype="http://schema.org/CreativeWork">
+      <div class="headline-wrap">
+        <h1 itemprop="headline">{{ page.title }}</h1>
+      </div><!--/ .headline-wrap -->
+      <div class="article-wrap" itemprop="text">
+        {{ content }}
+      </div><!-- /.article-wrap -->
+    </article>
+  </div><!-- /#main -->
+  
+  <div class="footer-wrap">
+    <footer>
+      {% include footer.html %}
+    </footer>
+  </div><!-- /.footer-wrap -->
+  
+  <!-- Modal for Author Bio on Mobile (invisible on desktop) -->
+  <div id="authorBioModal" class="modal">
+    <div class="modal-content">
+      <span class="close-btn" onclick="closeBio()">&times;</span>
+      {% include author-bio.html %}
+    </div>
+  </div>
+  
+  <!-- JavaScript to trigger modal on mobile without affecting desktop layout -->
+  <script>
+    function openBio(event) {
+      // Use matchMedia to check if screen width is less than 800px
+      if (window.matchMedia("(max-width: 800px)").matches) {
+        event.preventDefault(); // Prevent normal navigation
         document.getElementById('authorBioModal').style.display = "block";
+      }
     }
-}
-
-function closeBio() {
-    document.getElementById('authorBioModal').style.display = "none";
-}
-
-// Close the modal when clicking outside
-window.onclick = function(event) {
-    var modal = document.getElementById('authorBioModal');
-    if (event.target == modal) {
+    function closeBio() {
+      document.getElementById('authorBioModal').style.display = "none";
+    }
+    // Close modal if clicking outside the modal content
+    window.onclick = function(event) {
+      var modal = document.getElementById('authorBioModal');
+      if (event.target == modal) {
         modal.style.display = "none";
+      }
     }
-}
-</script>
-
-{% include scripts.html %}
-
+  </script>
+  
+  {% include scripts.html %}
+  
 </body>
 </html>
