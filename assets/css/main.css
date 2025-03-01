@@ -74,7 +74,7 @@ h1 {
     font-size: 60px;
     font-size: 3.3333333333333335rem;
     margin-bottom: 0.4em;
-    margin-top: -1em;
+    margin-top: -2em;
 }
 h2 {
     font-size: 48px;
@@ -106,8 +106,8 @@ h6 {
 /* Paragraphs & Inline Text */
 p {
     /* margin: 0 0 1.5em; */
-   margin-left: 1.5em;
-   font-family: 'Merriweather', sans-serif;
+   margin:0 0 1.5em 1.5em;
+   font-family: 'Merriweather', serif;
 }
 p + p {
     text-indent: 1.5em;
