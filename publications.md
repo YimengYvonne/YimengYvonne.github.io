@@ -17,10 +17,8 @@ title: Publications
 
 ## Journal Paper
 
-- [Evaluating an LLM-Powered Chatbot for Cognitive Restructuring: Insights from Mental Health Professionals.](https://arxiv.org/abs/2501.15599)<br>*To be released*<br>Yinzhou Wang, **Yimeng Wang**, Ye Xiao, Liabette Escamilla, Bianca Augustine, Kelly Crace, Gang Zhou, Yixuan Zhang
 - [Large Language Models Acting as Psychotherapists: A Scoping Review](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sx33W_4AAAAJ&citation_for_view=sx33W_4AAAAJ:qjMakFHDy7sC)<br>*To be released*<br>Yinzhou Wang, Ningman Gao, **Yimeng Wang**, Ye Xiao, Bianca Augustine, Yixuan Zhang
-
-
+- [Evaluating an LLM-Powered Chatbot for Cognitive Restructuring: Insights from Mental Health Professionals.](https://arxiv.org/abs/2501.15599)<br>*To be released*<br>Yinzhou Wang, **Yimeng Wang**, Ye Xiao, Liabette Escamilla, Bianca Augustine, Kelly Crace, Gang Zhou, Yixuan Zhang
 
 
 
