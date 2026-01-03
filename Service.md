@@ -12,7 +12,7 @@ title: Service
 
 ### Academic Reviews
 
-- Conference on Human Factors in Computing Systems (*CHI* 2026)
+- CHI Conference on Human Factors in Computing Systems (*CHI* 2026)
 - ACM Conference on Computer-Supported Cooperative Work and Social Computing (*CSCW* 2026)
 - International Journal of Human–Computer Interaction (*HIHC* 2025)
 - ACM Transactions on Computing for Healthcare (*HEALTH* 2024, 2025)
