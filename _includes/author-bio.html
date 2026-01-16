@@ -32,15 +32,14 @@
 
 {% if site.owner.bilibili %}<p style="text-indent:0;"><a href="https://space.bilibili.com/{{ site.owner.bilibili }}"><img src="https://caihanlin.com/images/logo/icons8-retro-tv-100.png" width="15" height="15"></i> Bilibili</a></p>{% endif %}
 
-<div class="sidebar-text">
-    <h3>News & Updates</h3>
+{% if page.url == "/" or page.url == "/index.html" %}
+<div class="sidebar-news">
+    <h3>News</h3>
     <ul class="news-list">
-        {% for item in site.data.news limit:10 %}
-        <li><strong>{{ item.date }}:</strong> {{ item.content }}</li>
+        {% for item in site.data.news limit:6 %}
+        <li>{{ item.content | markdownify | remove: '<p>' | remove: '</p>' }}</li>
         {% endfor %}
     </ul>
-    
-    <p style="text-align: right; font-size: 13px; margin-top: 12px; margin-bottom: 0;">
-        <a href="{{ site.url }}/news/" style="color: #666; border-bottom: 1px solid #ccc; text-decoration: none; padding-bottom: 2px;">View All News →</a>
-    </p>
+    <p><a href="{{ site.baseurl }}/news/">View All News →</a></p>
 </div>
+{% endif %}
