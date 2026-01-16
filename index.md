@@ -3,21 +3,16 @@ layout: page
 ---
 ## About Me
 
-Here is **Yimeng Wang**. My preferred name is Yvonne.
-
-I am a third year Ph.D student majoring in **CS** at William & Mary. I am advised by [Prof. Yixuan Zhang](https://zjanice.github.io/).
-
-My research interests lie at the intersection of **Human-Computer Interaction (HCI)** and **Artificial Intelligence**, with a particular focus on the dynamics of Human-Large Language Model (LLM) Interaction. My work also encompasses the development and ethical considerations of advanced machine learning and deep learning models.
-
+Here is **Yimeng Wang**. My preferred name is Yvonne.<br>
+I am a third year Ph.D student majoring in **CS** at William & Mary. I am advised by [Prof. Yixuan Zhang](https://zjanice.github.io/).<br>
+My research interests lie at the intersection of **Human-Computer Interaction (HCI)** and **Artificial Intelligence**, with a particular focus on the dynamics of Human-Large Language Model (LLM) Interaction. My work also encompasses the development and ethical considerations of advanced machine learning and deep learning models.<br>
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *ywang139[at]wm[dot]edu*
 
 ---
 ## Academic Background
 
-**Jan 2024 - Now:** William & Mary <br>Ph.D Student in Computer Science
-
-**Sep 2021 - Dec 2023:** University of Notre Dame<br>Master in Statistics 
-
+**Jan 2024 - Now:** William & Mary <br>Ph.D Student in Computer Science<br>
+**Sep 2021 - Dec 2023:** University of Notre Dame<br>Master in Statistics<br>
 **Sep 2017 - June 2021:** University of Science and Technology Beijing<br>B.S. in Information and Computing Science
 
 
