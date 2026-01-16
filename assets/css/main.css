@@ -110,7 +110,7 @@ p {
    font-family: 'Merriweather', serif;
 }
 p + p {
-    text-indent: 1.5em;
+    text-indent: 0em;
     margin-top: -1.5em;
 }
 abbr[title] {
