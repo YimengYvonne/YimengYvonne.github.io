@@ -7,22 +7,16 @@ title: Service
 
 ### Guest Talks
 
-Delivered a talk for CSCI 780 Course entitled **"Quantitative Evaluation"** at William & Mary
-
+Delivered a talk for CSCI 780 Course entitled **"Quantitative Evaluation"** at William & Mary<br>
 Delivered a talk for CSCI 420/520 Course entitled **"Quantitative Methods for HCI"** at William & Mary
 
 ### Academic Reviews
 
-CHI Conference on Human Factors in Computing Systems (*CHI* 2026)
-
-ACM Conference on Computer-Supported Cooperative Work and Social Computing (*CSCW* 2026)
-
-International Journal of Human–Computer Interaction (*HIHC* 2025)
-
-ACM Transactions on Computing for Healthcare (*HEALTH* 2024, 2025)
-
-Human–Machine Communication (*HMC* 2025)
-
+CHI Conference on Human Factors in Computing Systems (*CHI* 2026)<br>
+ACM Conference on Computer-Supported Cooperative Work and Social Computing (*CSCW* 2026)<br>
+International Journal of Human–Computer Interaction (*HIHC* 2025)<br>
+ACM Transactions on Computing for Healthcare (*HEALTH* 2024, 2025)<br>
+Human–Machine Communication (*HMC* 2025)<br>
 SIGCHI Late Breaking Work (*CHI LBW* 2024, 2025)
 
 ---
