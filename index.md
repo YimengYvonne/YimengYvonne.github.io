@@ -4,8 +4,6 @@ layout: page
 
 # About Me
 
-<img src="https://YimengYvonne.github.io/mypic.jpg" class="floatpic" width="200" height="340">
-
 Here is **Yimeng Wang**. My preferred name is Yvonne.
 
 I am a second year Ph.D student majoring in **CS** at William & Mary. I am advised by [Prof. Yixuan Zhang](https://zjanice.github.io/). 
