@@ -2266,3 +2266,24 @@ screen and (max-height: 300px) {
     color: #000;
     border-bottom-color: #000 !important;
 }
+.video-container {
+    display: flex;
+    flex-wrap: wrap;       
+    gap: 20px;           
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.video-container iframe {
+    flex: 1 1 calc(50% - 20px); 
+    min-width: 300px;           
+    aspect-ratio: 16 / 9;      
+    width: 100%;                
+    height: auto;               
+    border-radius: 8px;         
+}
+@media only screen and (max-width: 600px) {
+    .video-container iframe {
+        flex: 1 1 100%;
+    }
+}
