@@ -1257,16 +1257,23 @@ img.floatpic {
 }
 .article-author-top img.bio-photo,
 .article-author-bottom img.bio-photo {
-    -webkit-border-radius: 100px;
-    -moz-border-radius: 100px;
-    border-radius: 100px;
+    width: 100% !important;    
+    max-width: 200px;         
+    height: auto;             
+    -webkit-border-radius: 12px; 
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+    margin: 0 auto 1.5em;     
+    display: block;
 }
 .article-author-top {
-    display: none;
+    display: block !important; 
+    margin-bottom: 2em;
 }
 .article-author-bottom .bio-photo {
-    float: left;
-    margin-right: 25px;
+    float: none;            
+    margin: 0 auto 15px;
 }
 
 /* Table of Contents */
