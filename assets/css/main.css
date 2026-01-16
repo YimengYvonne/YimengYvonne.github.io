@@ -725,7 +725,20 @@ select:focus {
    =========================================================== */
 
 ul li {
-    list-style-type: square;
+    list-style-type: none !important; 
+    position: relative;
+    padding-left: 1.5em; 
+    margin-bottom: 0.8em;
+}
+ul li::before {
+    content: "•"; 
+    position: absolute;
+    left: 0;
+    color: #007aff; 
+    font-weight: bold;
+    font-size: 1.2em;
+    line-height: 1;
+    top: 0.1em;
 }
 ol li {
     list-style-type: upper-roman;
