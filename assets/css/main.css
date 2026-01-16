@@ -1111,14 +1111,14 @@ img.floatpic {
 }
 .top-navigation {
     position: fixed !important;   
-    top: 15px;                    
-    right: 15px;                  
+    top: 24px;                    
+    right: 24px;                  
     z-index: 9999;               
     width: auto !important;
     background: rgba(255, 255, 255, 0.9); 
-    padding: 10px 20px;
-    border-radius: 6px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    padding: 18px 34px;
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.15);
     white-space: nowrap;         
 }
 .top-navigation ul {
