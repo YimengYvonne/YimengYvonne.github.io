@@ -727,6 +727,7 @@ select:focus {
 ul li {
     list-style-type: none !important; 
     position: relative;
+    padding-left: 1.2em;
     margin-bottom: 0.8em;
 }
 ul li::before {
