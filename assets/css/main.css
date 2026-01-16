@@ -1107,24 +1107,17 @@ img.floatpic {
     text-transform: uppercase;
 }
 .site-name {
-    margin: 0 auto;
-    width: 100%;
-    display: inline;
-    float: left;
-    width: 83.33333333333334%;
-    margin-left: 8.333333333333334%;
-    margin-right: 8.333333333333334%;
-    margin-bottom: 1em;
+    display: none !important;
 }
 .top-navigation {
-    margin: 0 auto;
-    width: 100%;
-    display: inline;
-    float: left;
-    width: 83.33333333333334%;
-    margin-left: 8.333333333333334%;
-    margin-right: 8.333333333333334%;
-    margin-bottom: 1em;
+    position: fixed;   
+    top: 20px;         
+    right: 30px;       
+    z-index: 999;      
+    width: auto !important; 
+    background: rgba(255, 255, 255, 0.9); 
+    padding: 10px 15px; 
+    border-radius: 8px; 
 }
 .top-navigation ul {
     list-style: none;
@@ -2112,18 +2105,14 @@ screen and (max-height: 300px) {
         font-size: 95%;
     }
     .site-name {
-        display: inline;
-        float: left;
-        width: 16.666666666666668%;
-        margin-left: 4.166666666666667%;
-        margin-right: 4.166666666666667%;
+        display: none !important;
     }
     .top-navigation {
-        display: inline;
-        float: left;
-        width: 75%;
-        margin-left: 0%;
-        margin-right: 0%;
+        position: relative; 
+        top: 0;
+        right: 0;
+        text-align: center;
+        width: 100% !important;
     }
     .image-wrap .headline-wrap,
     .image-wrap:after {
@@ -2207,15 +2196,17 @@ screen and (max-height: 300px) {
 }
 @media only screen and (min-width: 86.375em) {
     .site-name {
-        display: inline;
-        float: left;
-        width: 12.5%;
-        margin-left: 16.666666666666668%;
+        display: none !important;
     }
     .top-navigation {
-        display: inline;
-        float: left;
-        width: 66.66666666666667%;
+        position: fixed;   
+        top: 20px;         
+        right: 30px;       
+        z-index: 999;      
+        width: auto !important; 
+        background: rgba(255, 255, 255, 0.9); 
+        padding: 10px 15px; 
+        border-radius: 8px; 
     }
     .image-wrap:after {
         left: 33.333333333%;
