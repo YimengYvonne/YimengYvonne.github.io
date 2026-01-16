@@ -30,9 +30,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 
 ## Research Projects
-<div class="video-container">
-    <iframe src="https://www.youtube.com/embed/ZLI32pnNPpU?si=3st75EE6Fy3vcgl7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <iframe src="https://www.youtube.com/embed/NtqeTqR3FNA?si=dmHrhokuKg0TnvAd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-grid-container">
+    <iframe src="https://www.youtube.com/embed/ZLI32pnNPpU?si=3st75EE6Fy3vcgl7" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/NtqeTqR3FNA?si=dmHrhokuKg0TnvAd" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
