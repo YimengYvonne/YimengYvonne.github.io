@@ -1306,7 +1306,7 @@ img.floatpic {
     height: auto;
     border-radius: 16px;
     box-shadow: 0 10px 25px rgba(0,0,0,0.08);
-    margin: 0 auto 1.5em; 
+    margin: 0 auto 3em; 
     display: block;
     border: 1px solid rgba(0,0,0,0.05);
 }
