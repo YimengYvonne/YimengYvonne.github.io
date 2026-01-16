@@ -23,14 +23,10 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-Human-Computer Interaction
-
-Machine Learning
-
-Deep learning
-
-LLM
-
+Human-Computer Interaction<br>
+Machine Learning<br>
+Deep learning<br>
+LLM<br>
 Data Visualization
 
 ---
