@@ -617,7 +617,7 @@ select:focus {
     margin-bottom: 1.2375rem;
 }
 .epsilon {
-    font-size: 21px;
+    font-size: px;
     font-size: 1.1666666666666667rem;
     margin-bottom: 1.4142857142857141rem;
 }
@@ -2096,7 +2096,37 @@ screen and (max-height: 300px) {
 /* ===========================================================
    21. Responsive Media Queries
    =========================================================== */
+@media only screen and (max-width: 37.49em) {
+    .article-author-top {
+        display: block !important;
+        padding: 70px 15px 10px !important;
+        text-align: left !important;
+    }
 
+    .article-author-top img.bio-photo {
+        width: 100px !important;
+        height: auto !important;
+        float: left !important;
+        margin: 0 15px 5px 0 !important;
+        border-radius: 12px !important;
+    }
+
+    .article-author-top h4 {
+        margin: 0 0 5px 0 !important;
+        display: inline-block;
+    }
+
+    .article-author-top p {
+        font-size: 0.9rem !important;
+        line-height: 1.5 !important;
+        margin-bottom: 15px !important;
+    }
+
+    .sidebar-text {
+        clear: both !important;
+        padding-top: 10px !important;
+    }
+}
 @media only screen and (min-width: 30em) {
     .image-grid li { width: 33.333333%; }
 }
