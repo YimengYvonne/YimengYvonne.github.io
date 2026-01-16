@@ -30,7 +30,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 
 ## Research Projects
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLI32pnNPpU?si=3st75EE6Fy3vcgI7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NtqeTqR3FNA?si=dmHrhokuKg0TnvAd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/ZLI32pnNPpU?si=3st75EE6Fy3vcgl7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/NtqeTqR3FNA?si=dmHrhokuKg0TnvAd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 
