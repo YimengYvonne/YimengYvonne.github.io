@@ -35,13 +35,12 @@
 <div class="sidebar-text">
     <h3>News & Updates</h3>
     <ul class="news-list">
-        <li><strong>Jan 2026:</strong> Excited to share that two of our papers have been accepted to CHI'26! Great work by everyone involved.</li>
-        <li><strong>Apr 2025:</strong> Our paper has been accepted to L@S’25. Cong!</li>
-        <li><strong>Feb 2025:</strong> Received a limited travel grant from the Office of Graduate Studies and the Graduate Student Association (GSA).</li>
-        <li><strong>Jan 2025:</strong> Our paper has been accepted to CHI’25, see you in Japan! Btw, I am the CHI SV as well, try to find me LOL.</li>
-        <li><strong>Apr 2024:</strong> Received a research grant from Research Graduate Studies Advisory Board (GSAB) “Seed Grants” of W&M.</li>
-        <li><strong>Apr 2024:</strong> Our paper has been accepted to L@S’24. Cong!</li>
-        <li><strong>Feb 2024:</strong> Very excited to be selected to attend CRA-WP.</li>
-        <li><strong>Jan 2024:</strong> Our paper has been accepted to CHI’24, see you in Hawai’i!</li>
+        {% for item in site.data.news limit:10 %}
+        <li><strong>{{ item.date }}:</strong> {{ item.content }}</li>
+        {% endfor %}
     </ul>
+    
+    <p style="text-align: right; font-size: 13px; margin-top: 12px; margin-bottom: 0;">
+        <a href="{{ site.url }}/news/" style="color: #666; border-bottom: 1px solid #ccc; text-decoration: none; padding-bottom: 2px;">View All News →</a>
+    </p>
 </div>
