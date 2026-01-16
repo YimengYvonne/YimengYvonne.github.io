@@ -1250,7 +1250,7 @@ img.floatpic {
 }
 .article-author-top img.bio-photo,
 .article-author-bottom img.bio-photo {
-    width: 100% !important;    
+    width: 85% !important;    
     max-width: 200px;         
     height: auto;             
     -webkit-border-radius: 12px; 
