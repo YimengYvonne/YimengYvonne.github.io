@@ -1109,6 +1109,18 @@ img.floatpic {
 .site-name {
     display: none !important;
 }
+.top-navigation {
+    position: fixed !important;   
+    top: 15px;                    
+    right: 15px;                  
+    z-index: 9999;               
+    width: auto !important;
+    background: rgba(255, 255, 255, 0.9); 
+    padding: 8px 12px;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    white-space: nowrap;         
+}
 .top-navigation ul {
     list-style: none;
     margin: 0;
@@ -2091,6 +2103,19 @@ screen and (max-height: 300px) {
 @media only screen and (min-width: 37.5em) {
     html { font-size: 95%; }
     .site-name { display: none !important; }
+    .top-navigation {
+        padding: 5px 10px !important; 
+        top: 10px !important;
+        right: 10px !important;
+    }
+
+    .top-navigation li a {
+        font-size: 0.75rem !important; 
+    }
+
+    .top-navigation li {
+        margin-right: 8px !important; 
+    }
 
     .article-author-top {
         display: inline;
