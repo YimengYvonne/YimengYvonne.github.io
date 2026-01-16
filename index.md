@@ -11,6 +11,7 @@ My research interests lie at the intersection of **Human-Computer Interaction (H
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *ywang139[at]wm[dot]edu*
 
+---
 ## Academic Background
 
 **Jan 2024 - Now:** William & Mary <br>Ph.D Student in Computer Science
@@ -19,7 +20,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **Sep 2017 - June 2021:** University of Science and Technology Beijing<br>B.S. in Information and Computing Science
 
----
 
 ## Research Interests
 
@@ -29,7 +29,6 @@ Deep learning<br>
 LLM<br>
 Data Visualization
 
----
 
 ## Research Projects
 <div class="video-grid-container">
