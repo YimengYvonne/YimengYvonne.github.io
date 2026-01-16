@@ -2219,7 +2219,7 @@ screen and (max-height: 300px) {
     #main article {
         display: inline;
         float: left;
-        width: 37.5%;
+        width: 55%;
     }
     #index {
         display: inline;
@@ -2243,8 +2243,8 @@ screen and (max-height: 300px) {
     .article-author-top {
         display: inline;
         float: left;
-        width: 12.5%;
-        margin-left: 16.666666666666668%;
+        width: 15%;
+        margin-left: 10%;
     }
 }
 @media (-webkit-min-device-pixel-ratio: 2),
