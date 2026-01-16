@@ -727,14 +727,13 @@ select:focus {
 ul li {
     list-style-type: none !important; 
     position: relative;
-    padding-left: 1.5em; 
     margin-bottom: 0.8em;
 }
 ul li::before {
     content: "•"; 
     position: absolute;
     left: 0;
-    color: #007aff; 
+    color: #151515; 
     font-weight: bold;
     font-size: 1.2em;
     line-height: 1;
