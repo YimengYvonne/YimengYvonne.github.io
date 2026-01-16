@@ -2143,7 +2143,7 @@ screen and (max-height: 300px) {
         box-sizing: border-box !important;
     }
     .article-author-top img.bio-photo {
-        width: 85px !important; 
+        width: 100px !important; 
         float: left !important;
         margin: 0 15px 5px 0 !important;
         border-radius: 10px !important;
