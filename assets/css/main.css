@@ -111,7 +111,7 @@ p {
 }
 p + p {
     text-indent: 0;
-    margin-top: -1.5em;
+    margin-top: 0;
 }
 abbr[title] {
     border-bottom: 1px dotted;
@@ -1260,28 +1260,36 @@ img.floatpic {
 
 .article-author-top p,
 .article-author-bottom p {
-    font-size: 0.9rem;      
+    font-size: 0.4rem;      
     font-style: normal;     
     color: #4b5563;         
     line-height: 1.6;
     margin-bottom: 1.2em;
 }
-
+.article-author-top p:has(a) {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+}
 .article-author-top a,
 .article-author-bottom a {
-    font-weight: 700 !important; 
-    color: #1a1a1b !important;
-    border-bottom: none !important; 
-    display: inline-flex;
-    align-items: center;
-    transition: all 0.2s ease;
-    margin-bottom: 0.5em;
+    margin-bottom: 2px !important; 
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
 }
 
 .article-author-top a:hover,
 .article-author-bottom a:hover {
     color: #007aff !important; 
     transform: translateX(4px); 
+}
+
+.article-author-top a i, 
+.article-author-top a img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px !important; 
+    width: 18px !important;        
+    text-align: center;
 }
 
 .article-author-top img.bio-photo,
