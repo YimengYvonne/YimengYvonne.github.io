@@ -29,11 +29,11 @@ title: Experiences
 - Poster presentation in Computing Research Association Grad Cohort Workshops (CRA-WP). *Apr 2024*
 
 ### Teaching Assistant
-***Lecturer: Duties including preparing course materials, having lectures, holding office hours.***
+Lecturer: Duties including preparing course materials, having lectures, holding office hours.
 
 - Scientific Computing with Python (FA23-ACMS-20220) *Fall 2023*
 
-***Assistant: Duties including validating course materials, holding office hours, attending classes, and grading exams.***
+Assistant: Duties including validating course materials, holding office hours, attending classes, and grading exams.
 - Data Structures (CSCI-241) *Spring 2025*
 - Intro to HCI (CSCI-420/520) *Fall 2024*
 - Data Structures (CSCI-241) *Spring 2024*

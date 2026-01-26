@@ -12,6 +12,7 @@ Delivered a talk for CSCI 420/520 Course entitled **"Quantitative Methods for HC
 
 ### Academic Reviews
 
+Poster Track Associate Chairs (*CHI LBW* 2026)<br>
 CHI Conference on Human Factors in Computing Systems (*CHI* 2026)<br>
 ACM Conference on Computer-Supported Cooperative Work and Social Computing (*CSCW* 2026)<br>
 International Journal of Human–Computer Interaction (*HIHC* 2025)<br>
@@ -33,5 +34,3 @@ SIGCHI Late Breaking Work (*CHI LBW* 2024, 2025)
 
 - Student Volunteer for the SIGCHI Conference on Human Factors in Computing Systems (CHI2025) *2025*
   
-
-<br>
