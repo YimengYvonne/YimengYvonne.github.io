@@ -10,9 +10,9 @@ title: Publications
 
 ### 2026
 
-*CHI'26*<br>[Exploring Customizable Interactive Tools for Therapeutic Homework Support in Mental Health Counseling]()<br>**Yimeng Wang**, Liabette Escamilla, Yinzhou Wang, Bianca R. Augustine, Yixuan Zhang
+*CHI'26*<br>[Exploring Customizable Interactive Tools for Therapeutic Homework Support in Mental Health Counseling](https://arxiv.org/abs/2601.18179)<br>**Yimeng Wang**, Liabette Escamilla, Yinzhou Wang, Bianca R. Augustine, Yixuan Zhang
 
-*CHI'26*<br>[Designing AI Peers for Collaborative Mathematical Problem Solving with Middle School Students: A Participatory Design Study]()<br>Wenhan Lyu, **Yimeng Wang**, Murong Yue, Yifan Sun, Jennifer Suh, Meredith Kier, Ziyu Yao, Yixuan Zhang 
+*CHI'26*<br>[Designing AI Peers for Collaborative Mathematical Problem Solving with Middle School Students: A Participatory Design Study](https://arxiv.org/abs/2601.17962)<br>Wenhan Lyu, **Yimeng Wang**, Murong Yue, Yifan Sun, Jennifer Suh, Meredith Kier, Ziyu Yao, Yixuan Zhang 
 
 ### 2025
 
