@@ -13,7 +13,7 @@ title: Publications
 <div class="pub-list">
 
 <div class="pub-item">
-<div class="pub-venue">ACL'26 Findings</div>
+<div class="pub-venue" style="font-size: 0.7rem;">ACL'26 Findings</div>
 <div class="pub-details">
 <a href="https://arxiv.org/abs/2601.07233">From "Thinking" to "Justifying": Aligning High-Stakes Explainability with Professional Communication Standards</a><br>Chen Qian, <strong>Yimeng Wang</strong>, Yu Chen, Lingfei Wu, Andreas Stathopoulos
 </div>
