@@ -28,7 +28,7 @@ title: Publications
 
 *L@S’24*<br>[Evaluating the Effectiveness of LLMs in Introductory Computer Science Education: A Semester-Long Field Study.](https://dl.acm.org/doi/10.1145/3657604.3662036)<br>Wenhan Lyu, **Yimeng Wang**, Tingting Rachel Chung, Yifan Sun, Yixuan Zhang
 
-*CHI’24*<br>[Profiling the Dynamics of Trust & Distrust in Social Media: A Survey Study.](https://dl.acm.org/doi/10.1145/3613904.3642927)<br>**Yimeng Wang** *, Yixuan Zhang *, Nutchanon Yongsatianchot, Joseph D Gaggiano, Nurul M Suhaimi, Anne Okrah, Jacqueline Griffin, Miso Kim, Andrea G Parker
+*CHI’24*<br>[Profiling the Dynamics of Trust & Distrust in Social Media: A Survey Study.](https://dl.acm.org/doi/10.1145/3613904.3642927)<br>Yixuan Zhang *, **Yimeng Wang** *, Nutchanon Yongsatianchot, Joseph D Gaggiano, Nurul M Suhaimi, Anne Okrah, Jacqueline Griffin, Miso Kim, Andrea G Parker
 
 
 
