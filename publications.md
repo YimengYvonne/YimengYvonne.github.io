@@ -10,7 +10,7 @@ title: Publications
 
 ### 2026
 
-*ACL'26*<br>[From" Thinking" to" Justifying": Aligning High-Stakes Explainability with Professional Communication Standards](https://arxiv.org/abs/2601.07233)<br>Chen Qian, **Yimeng Wang**, Yu Chen, Lingfei Wu, Andreas Stathopoulos
+*ACL'26*<br>[From "Thinking" to "Justifying": Aligning High-Stakes Explainability with Professional Communication Standards](https://arxiv.org/abs/2601.07233)<br>Chen Qian, **Yimeng Wang**, Yu Chen, Lingfei Wu, Andreas Stathopoulos
 
 *IH'26 Short Form*<br>[Explore LLM-enabled Tools to Facilitate Imaginal Exposure Exercises for Social Anxiety](https://arxiv.org/abs/2603.25933)<br>**Yimeng Wang**, Yinzhou Wang, Alicia Hong, Yixuan Zhang
 
