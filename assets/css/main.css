@@ -3056,7 +3056,7 @@ li>a:hover {
     opacity: 1;
 }
 
-/* --- Publication Card Styles --- */
+/* --- General Card Styles for article paragraphs --- */
 .article-wrap p {
     position: relative;
     padding: 1.25rem 1.5rem !important;
@@ -3075,43 +3075,113 @@ li>a:hover {
     transform: translateX(4px);
 }
 
-/* Publication title styling - links in publication cards */
-.article-wrap p>a,
-.article-wrap p>a:visited {
-    font-weight: 600 !important;
-    font-size: 1.05rem !important;
-    color: #1e293b !important;
-    /* Dark text by default */
-    line-height: 1.5 !important;
-    display: inline !important;
-    border-bottom: none !important;
-    transition: color 0.2s ease !important;
+/* --- Override: No card styles inside .pub-list --- */
+.pub-list p,
+.pub-list p:hover {
+    padding: 0 !important;
+    margin: 0 !important;
+    background: none !important;
+    border-radius: 0 !important;
+    border-left: none !important;
+    box-shadow: none !important;
+    transform: none !important;
 }
 
-.article-wrap p>a:hover {
-    color: #2563eb !important;
-    /* Blue on hover */
+/* --- Publication List Layout --- */
+.pub-list {
+    margin: 0.5rem 0 1.5rem 0;
+}
+
+.pub-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--color-border-light);
+}
+
+.pub-venue {
+    flex-shrink: 0;
+    width: 90px;
+    min-width: 90px;
+    color: var(--color-primary);
+    font-weight: 600;
+    font-size: 0.82rem;
+    font-family: 'Inter', sans-serif;
+    background: rgba(37, 99, 235, 0.08);
+    padding: 4px 10px;
+    border-radius: 4px;
+    text-align: center;
+    line-height: 1.4;
+    margin-top: 2px;
+    white-space: nowrap;
+}
+
+.pub-details {
+    flex: 1;
+    min-width: 0;
+}
+
+.pub-details a {
+    font-weight: 600;
+    font-size: 1rem;
+    color: var(--color-text) !important;
+    line-height: 1.5;
+    border-bottom: none !important;
+    transition: color 0.2s ease;
+}
+
+.pub-details a:hover {
+    color: var(--color-primary) !important;
     border-bottom: none !important;
     background: transparent !important;
 }
 
-/* Venue/conference styling */
-.article-wrap p em {
-    color: var(--color-primary) !important;
-    font-style: normal !important;
-    font-weight: 500 !important;
-    font-size: 0.85rem !important;
-    background: rgba(37, 99, 235, 0.08);
-    padding: 2px 8px;
-    border-radius: 4px;
-    display: inline-block;
-    margin-bottom: 0.5em;
+.pub-details br {
+    display: block;
+    content: '';
+    margin-top: 0.25em;
 }
 
-/* Author names */
-.article-wrap p br+br~* {
+/* Author names in publications */
+.pub-details {
     color: var(--color-text-muted);
     font-size: 0.9rem;
+    line-height: 1.6;
+}
+
+/* --- About Section: No card styles --- */
+.about-section p,
+.about-section p:hover {
+    padding: 0 !important;
+    margin: 0 0 1.5em 0 !important;
+    background: none !important;
+    border-radius: 0 !important;
+    border-left: none !important;
+    box-shadow: none !important;
+    transform: none !important;
+}
+
+/* --- Accent text: color only, no bg --- */
+.accent {
+    color: var(--color-primary);
+    font-weight: 500;
+}
+
+/* --- Advisor link: elegant style --- */
+.advisor-link,
+.advisor-link:visited {
+    color: var(--color-primary) !important;
+    font-weight: 500 !important;
+    border-bottom: none !important;
+    text-decoration: none !important;
+    transition: color var(--transition-fast) !important;
+}
+
+.advisor-link:hover {
+    color: var(--color-primary-dark) !important;
+    border-bottom: 1.5px solid var(--color-primary) !important;
+    background: none !important;
 }
 
 /* --- Sidebar News Section --- */
@@ -3230,6 +3300,18 @@ li>a:hover {
     .article-wrap p {
         padding: 1rem !important;
         margin: 0 0 0.75rem 0 !important;
+    }
+
+    /* Publication list: stack on mobile */
+    .pub-item {
+        flex-direction: column;
+        gap: 0.25rem;
+    }
+
+    .pub-venue {
+        width: auto;
+        min-width: auto;
+        align-self: flex-start;
     }
 
     .article-wrap h2::after {

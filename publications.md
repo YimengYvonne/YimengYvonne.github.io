@@ -10,33 +10,98 @@ title: Publications
 
 ### 2026
 
-*ACL'26*<br>[From "Thinking" to "Justifying": Aligning High-Stakes Explainability with Professional Communication Standards](https://arxiv.org/abs/2601.07233)<br>Chen Qian, **Yimeng Wang**, Yu Chen, Lingfei Wu, Andreas Stathopoulos
+<div class="pub-list">
 
-*IH'26 Short Form*<br>[Explore LLM-enabled Tools to Facilitate Imaginal Exposure Exercises for Social Anxiety](https://arxiv.org/abs/2603.25933)<br>**Yimeng Wang**, Yinzhou Wang, Alicia Hong, Yixuan Zhang
+<div class="pub-item">
+<div class="pub-venue">ACL'26</div>
+<div class="pub-details">
+<a href="https://arxiv.org/abs/2601.07233">From "Thinking" to "Justifying": Aligning High-Stakes Explainability with Professional Communication Standards</a><br>Chen Qian, <strong>Yimeng Wang</strong>, Yu Chen, Lingfei Wu, Andreas Stathopoulos
+</div>
+</div>
 
-*CHI'26*<br>[Exploring Customizable Interactive Tools for Therapeutic Homework Support in Mental Health Counseling](https://arxiv.org/abs/2601.18179)<br>**Yimeng Wang**, Liabette Escamilla, Yinzhou Wang, Bianca R. Augustine, Yixuan Zhang
+<div class="pub-item">
+<div class="pub-venue">IH'26 Short</div>
+<div class="pub-details">
+<a href="https://arxiv.org/abs/2603.25933">Explore LLM-enabled Tools to Facilitate Imaginal Exposure Exercises for Social Anxiety</a><br><strong>Yimeng Wang</strong>, Yinzhou Wang, Alicia Hong, Yixuan Zhang
+</div>
+</div>
 
-*CHI'26*<br>[Designing AI Peers for Collaborative Mathematical Problem Solving with Middle School Students: A Participatory Design Study](https://arxiv.org/abs/2601.17962)<br>Wenhan Lyu, **Yimeng Wang**, Murong Yue, Yifan Sun, Jennifer Suh, Meredith Kier, Ziyu Yao, Yixuan Zhang 
+<div class="pub-item">
+<div class="pub-venue">CHI'26</div>
+<div class="pub-details">
+<a href="https://arxiv.org/abs/2601.18179">Exploring Customizable Interactive Tools for Therapeutic Homework Support in Mental Health Counseling</a><br><strong>Yimeng Wang</strong>, Liabette Escamilla, Yinzhou Wang, Bianca R. Augustine, Yixuan Zhang
+</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-venue">CHI'26</div>
+<div class="pub-details">
+<a href="https://arxiv.org/abs/2601.17962">Designing AI Peers for Collaborative Mathematical Problem Solving with Middle School Students: A Participatory Design Study</a><br>Wenhan Lyu, <strong>Yimeng Wang</strong>, Murong Yue, Yifan Sun, Jennifer Suh, Meredith Kier, Ziyu Yao, Yixuan Zhang
+</div>
+</div>
+
+</div>
 
 ### 2025
 
-*L@S’25*<br>[Will Your Next Pair Programming Partner Be Human? An Empirical Evaluation of Generative AI as a Collaborative Teammate in a Semester-Long Classroom Setting](https://dl.acm.org/doi/10.1145/3698205.3729544)<br>Wenhan Lyu, **Yimeng Wang**, Yifan Sun, Yixuan Zhang
+<div class="pub-list">
 
-*CHI’25*<br>[Understanding Attitudes and Trust of Generative AI Chatbots for Social Anxiety Support.](https://dl.acm.org/doi/10.1145/3706598.3714286)<br>**Yimeng Wang**, Yinzhou Wang, Kelly Crace, Yixuan Zhang
+<div class="pub-item">
+<div class="pub-venue">L@S'25</div>
+<div class="pub-details">
+<a href="https://dl.acm.org/doi/10.1145/3698205.3729544">Will Your Next Pair Programming Partner Be Human? An Empirical Evaluation of Generative AI as a Collaborative Teammate in a Semester-Long Classroom Setting</a><br>Wenhan Lyu, <strong>Yimeng Wang</strong>, Yifan Sun, Yixuan Zhang
+</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-venue">CHI'25</div>
+<div class="pub-details">
+<a href="https://dl.acm.org/doi/10.1145/3706598.3714286">Understanding Attitudes and Trust of Generative AI Chatbots for Social Anxiety Support.</a><br><strong>Yimeng Wang</strong>, Yinzhou Wang, Kelly Crace, Yixuan Zhang
+</div>
+</div>
+
+</div>
 
 ### 2024
 
-*L@S’24*<br>[Evaluating the Effectiveness of LLMs in Introductory Computer Science Education: A Semester-Long Field Study.](https://dl.acm.org/doi/10.1145/3657604.3662036)<br>Wenhan Lyu, **Yimeng Wang**, Tingting Rachel Chung, Yifan Sun, Yixuan Zhang
+<div class="pub-list">
 
-*CHI’24*<br>[Profiling the Dynamics of Trust & Distrust in Social Media: A Survey Study.](https://dl.acm.org/doi/10.1145/3613904.3642927)<br>Yixuan Zhang *, **Yimeng Wang** *, Nutchanon Yongsatianchot, Joseph D Gaggiano, Nurul M Suhaimi, Anne Okrah, Jacqueline Griffin, Miso Kim, Andrea G Parker
+<div class="pub-item">
+<div class="pub-venue">L@S'24</div>
+<div class="pub-details">
+<a href="https://dl.acm.org/doi/10.1145/3657604.3662036">Evaluating the Effectiveness of LLMs in Introductory Computer Science Education: A Semester-Long Field Study.</a><br>Wenhan Lyu, <strong>Yimeng Wang</strong>, Tingting Rachel Chung, Yifan Sun, Yixuan Zhang
+</div>
+</div>
 
+<div class="pub-item">
+<div class="pub-venue">CHI'24</div>
+<div class="pub-details">
+<a href="https://dl.acm.org/doi/10.1145/3613904.3642927">Profiling the Dynamics of Trust & Distrust in Social Media: A Survey Study.</a><br>Yixuan Zhang *, <strong>Yimeng Wang</strong> *, Nutchanon Yongsatianchot, Joseph D Gaggiano, Nurul M Suhaimi, Anne Okrah, Jacqueline Griffin, Miso Kim, Andrea G Parker
+</div>
+</div>
+
+</div>
 
 
 ## Journal Paper
 
-*To be released*<br>[Large Language Models Acting as Psychotherapists: A Scoping Review](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sx33W_4AAAAJ&citation_for_view=sx33W_4AAAAJ:qjMakFHDy7sC)<br>Yinzhou Wang, Ningman Gao, **Yimeng Wang**, Ye Xiao, Bianca Augustine, Yixuan Zhang
+<div class="pub-list">
 
-*To be released*<br>[Evaluating an LLM-Powered Chatbot for Cognitive Restructuring: Insights from Mental Health Professionals.](https://arxiv.org/abs/2501.15599)<br>Yinzhou Wang, **Yimeng Wang**, Ye Xiao, Liabette Escamilla, Bianca Augustine, Kelly Crace, Gang Zhou, Yixuan Zhang
+<div class="pub-item">
+<div class="pub-venue">To be released</div>
+<div class="pub-details">
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sx33W_4AAAAJ&citation_for_view=sx33W_4AAAAJ:qjMakFHDy7sC">Large Language Models Acting as Psychotherapists: A Scoping Review</a><br>Yinzhou Wang, Ningman Gao, <strong>Yimeng Wang</strong>, Ye Xiao, Bianca Augustine, Yixuan Zhang
+</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-venue">To be released</div>
+<div class="pub-details">
+<a href="https://arxiv.org/abs/2501.15599">Evaluating an LLM-Powered Chatbot for Cognitive Restructuring: Insights from Mental Health Professionals.</a><br>Yinzhou Wang, <strong>Yimeng Wang</strong>, Ye Xiao, Liabette Escamilla, Bianca Augustine, Kelly Crace, Gang Zhou, Yixuan Zhang
+</div>
+</div>
+
+</div>
 
 
 
