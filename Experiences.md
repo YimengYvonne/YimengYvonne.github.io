@@ -4,7 +4,7 @@ permalink: /Experiences/index.html
 title: Experiences
 ---
 ## Grants & Awards
-
+- **Graduate Travel Grants** - W&M Department of Computer Science *(2025, 2026)*
 - **GSA Conference Award** *(limited number of awards)* – W&M, Office of Graduate Studies & GSA *(2025)*
 - **Seed Grants** – W&M, Research Graduate Studies Advisory Board (GSAB) *(2024)*
 - **Third Prize, National Smart Car Competition** *(2020)*
