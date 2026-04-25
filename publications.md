@@ -34,7 +34,7 @@ title: Publications
 </div>
 
 <div class="pub-item">
-<div class="pub-venue">IH'26 Short</div>
+<div class="pub-venue" style="font-size: 0.6rem;">Interactive Health'26</div>
 <div class="pub-details">
 <a href="https://arxiv.org/abs/2603.25933">Explore LLM-enabled Tools to Facilitate Imaginal Exposure Exercises for Social Anxiety</a><br><strong>Yimeng Wang</strong>, Yinzhou Wang, Alicia Hong, Yixuan Zhang
 </div>
