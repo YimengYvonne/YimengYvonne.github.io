@@ -15,14 +15,14 @@ title: Publications
 <div class="pub-item">
 <div class="pub-venue">CHI'26</div>
 <div class="pub-details">
-<a href="https://arxiv.org/abs/2601.18179">Exploring Customizable Interactive Tools for Therapeutic Homework Support in Mental Health Counseling</a><br><strong>Yimeng Wang</strong>, Liabette Escamilla, Yinzhou Wang, Bianca R. Augustine, Yixuan Zhang
+<a href="https://dl.acm.org/doi/10.1145/3772318.3790569">Exploring Customizable Interactive Tools for Therapeutic Homework Support in Mental Health Counseling</a><br><strong>Yimeng Wang</strong>, Liabette Escamilla, Yinzhou Wang, Bianca R. Augustine, Yixuan Zhang
 </div>
 </div>
 
 <div class="pub-item">
 <div class="pub-venue">CHI'26</div>
 <div class="pub-details">
-<a href="https://arxiv.org/abs/2601.17962">Designing AI Peers for Collaborative Mathematical Problem Solving with Middle School Students: A Participatory Design Study</a><br>Wenhan Lyu, <strong>Yimeng Wang</strong>, Murong Yue, Yifan Sun, Jennifer Suh, Meredith Kier, Ziyu Yao, Yixuan Zhang
+<a href="https://dl.acm.org/doi/10.1145/3772318.3791138">Designing AI Peers for Collaborative Mathematical Problem Solving with Middle School Students: A Participatory Design Study</a><br>Wenhan Lyu, <strong>Yimeng Wang</strong>, Murong Yue, Yifan Sun, Jennifer Suh, Meredith Kier, Ziyu Yao, Yixuan Zhang
 </div>
 </div>
 
