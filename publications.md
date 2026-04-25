@@ -27,14 +27,14 @@ title: Publications
 </div>
 
 <div class="pub-item">
-<div class="pub-venue" style="font-size: 0.7rem;">ACL'26 Findings</div>
+<div class="pub-venue">ACL'26 Findings</div>
 <div class="pub-details">
 <a href="https://arxiv.org/abs/2601.07233">From "Thinking" to "Justifying": Aligning High-Stakes Explainability with Professional Communication Standards</a><br>Chen Qian, <strong>Yimeng Wang</strong>, Yu Chen, Lingfei Wu, Andreas Stathopoulos
 </div>
 </div>
 
 <div class="pub-item">
-<div class="pub-venue" style="font-size: 0.6rem;">Interactive Health'26</div>
+<div class="pub-venue">Interactive Health'26</div>
 <div class="pub-details">
 <a href="https://arxiv.org/abs/2603.25933">Explore LLM-enabled Tools to Facilitate Imaginal Exposure Exercises for Social Anxiety</a><br><strong>Yimeng Wang</strong>, Yinzhou Wang, Alicia Hong, Yixuan Zhang
 </div>
