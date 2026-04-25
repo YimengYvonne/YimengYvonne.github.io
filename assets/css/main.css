@@ -3102,15 +3102,14 @@ li>a:hover {
 
 .pub-venue {
     flex-shrink: 0;
-    width: fit-content;
-    min-width: 90px;
-    max-width: 120px;
+    width: 160px;
+    min-width: 160px;
     color: var(--color-primary);
     font-weight: 600;
-    font-size: 0.75rem;
+    font-size: 0.76rem;
     font-family: 'Inter', sans-serif;
     background: rgba(37, 99, 235, 0.08);
-    padding: 4px 8px;
+    padding: 4px 10px;
     border-radius: 4px;
     text-align: center;
     line-height: 1.4;
