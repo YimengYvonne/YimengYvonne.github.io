@@ -5,7 +5,7 @@ layout: page
 
 ## About Me
 
-I am Yimeng ("Yvonne") Wang, a third year Ph.D student in Computer Science at William & Mary, advised by <a href="https://zjanice.github.io/" class="advisor-link">Prof. Yixuan Zhang</a>. My research interests lie at the intersection of <span class="accent">Human-Computer Interaction (HCI)</span> and <span class="accent">Artificial Intelligence</span>, with a particular focus on the dynamics of Human-Large Language Model (LLM) Interaction. My work also encompasses the development and ethical considerations of advanced AI models. If you are interested in any aspect of me, I would love to chat and collaborate.
+I am Yimeng ("Yvonne") Wang, a third year Ph.D student in Computer Science at William & Mary, advised by <a href="https://zjanice.github.io/" class="advisor-link">Prof. Yixuan Zhang</a>. My research interests lie in <span class="accent">Human-Computer Interaction (HCI)</span> and <span class="accent">Human-AI Interaction</span>. I study how people make sense of and build trust with AI systems across different contexts, and I design and evaluate LLM-enabled tools for sensitive domains such as mental health support and education. I regularly publish in premier HCI and AI venues including ACM CHI, ACL, L@S, and Interactive Health. My research has received press coverage from William & Mary News and WHRO Public Media. I am currently serving as a Poster Track Associate Chair for CHI 2026 and review for CHI, CSCW, UIST and ACM HEALTH. If you are interested in any aspect of my work, I would love to chat and collaborate.
 
 ---
 ## Academic Background
