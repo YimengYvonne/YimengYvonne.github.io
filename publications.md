@@ -5,9 +5,6 @@ title: Publications
 ---
 
 
-
-## Conference Paper
-
 ### 2026
 
 <div class="pub-list">
@@ -37,6 +34,13 @@ title: Publications
 <div class="pub-venue">Interactive Health'26</div>
 <div class="pub-details">
 <a href="https://arxiv.org/abs/2603.25933">Explore LLM-enabled Tools to Facilitate Imaginal Exposure Exercises for Social Anxiety</a><br><strong>Yimeng Wang</strong>, Yinzhou Wang, Alicia Hong, Yixuan Zhang
+</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-venue">ACM HEALTH</div>
+<div class="pub-details">
+<a href="https://arxiv.org/abs/2501.15599">Evaluating an LLM-Powered Chatbot for Cognitive Restructuring: Insights from Mental Health Professionals.</a><br>Yinzhou Wang, <strong>Yimeng Wang</strong>, Ye Xiao, Liabette Escamilla, Bianca Augustine, Kelly Crace, Gang Zhou, Yixuan Zhang
 </div>
 </div>
 
@@ -82,26 +86,6 @@ title: Publications
 
 </div>
 
-
-## Journal Paper
-
-<div class="pub-list">
-
-<div class="pub-item">
-<div class="pub-venue">To be released</div>
-<div class="pub-details">
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sx33W_4AAAAJ&citation_for_view=sx33W_4AAAAJ:qjMakFHDy7sC">Large Language Models Acting as Psychotherapists: A Scoping Review</a><br>Yinzhou Wang, Ningman Gao, <strong>Yimeng Wang</strong>, Ye Xiao, Bianca Augustine, Yixuan Zhang
-</div>
-</div>
-
-<div class="pub-item">
-<div class="pub-venue">To be released</div>
-<div class="pub-details">
-<a href="https://arxiv.org/abs/2501.15599">Evaluating an LLM-Powered Chatbot for Cognitive Restructuring: Insights from Mental Health Professionals.</a><br>Yinzhou Wang, <strong>Yimeng Wang</strong>, Ye Xiao, Liabette Escamilla, Bianca Augustine, Kelly Crace, Gang Zhou, Yixuan Zhang
-</div>
-</div>
-
-</div>
 
 
 
