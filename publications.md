@@ -40,7 +40,7 @@ title: Publications
 <div class="pub-item">
 <div class="pub-venue">ACM HEALTH</div>
 <div class="pub-details">
-<a href="https://arxiv.org/abs/2501.15599">Evaluating an LLM-Powered Chatbot for Cognitive Restructuring: Insights from Mental Health Professionals.</a><br>Yinzhou Wang, <strong>Yimeng Wang</strong>, Ye Xiao, Liabette Escamilla, Bianca Augustine, Kelly Crace, Gang Zhou, Yixuan Zhang
+<a href="https://dl.acm.org/doi/10.1145/3820038">Evaluating an LLM-Powered Chatbot for Cognitive Restructuring: Insights from Mental Health Professionals.</a><br>Yinzhou Wang, <strong>Yimeng Wang</strong>, Ye Xiao, Liabette Escamilla, Bianca Augustine, Kelly Crace, Gang Zhou, Yixuan Zhang
 </div>
 </div>
 
