@@ -19,6 +19,7 @@ ACM Symposium on User Interface Software and Technology (*UIST* 2026)<br>
 Interaction Design and Children (*IDC* 2026) <br>
 International Journal of Human–Computer Interaction (*HIHC* 2025)<br>
 Journal of Medical Internet Research (*JMIR* 2026)<br>
+International Conference on Human-Agent Interaction (*HAI* 2026) <br>
 ACM Transactions on Computing for Healthcare (*HEALTH* 2024, 2025)<br>
 Human–Machine Communication (*HMC* 2025)<br>
 SIGCHI Late Breaking Work (*CHI LBW* 2024, 2025)
