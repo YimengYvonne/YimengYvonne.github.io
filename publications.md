@@ -26,7 +26,7 @@ title: Publications
 <div class="pub-item">
 <div class="pub-venue">ACL'26 Findings</div>
 <div class="pub-details">
-<a href="https://arxiv.org/abs/2601.07233">From "Thinking" to "Justifying": Aligning High-Stakes Explainability with Professional Communication Standards</a><br>Chen Qian, <strong>Yimeng Wang</strong>, Yu Chen, Lingfei Wu, Andreas Stathopoulos
+<a href="https://aclanthology.org/2026.findings-acl.1232/">From "Thinking" to "Justifying": Aligning High-Stakes Explainability with Professional Communication Standards</a><br>Chen Qian, <strong>Yimeng Wang</strong>, Yu Chen, Lingfei Wu, Andreas Stathopoulos
 </div>
 </div>
 
