@@ -40,9 +40,18 @@ title: Publications
 <div class="pub-item">
 <div class="pub-venue">ACM HEALTH</div>
 <div class="pub-details">
-<a href="https://dl.acm.org/doi/10.1145/3820038">Evaluating an LLM-Powered Chatbot for Cognitive Restructuring: Insights from Mental Health Professionals.</a><br>Yinzhou Wang, <strong>Yimeng Wang</strong>, Ye Xiao, Liabette Escamilla, Bianca Augustine, Kelly Crace, Gang Zhou, Yixuan Zhang
+<a href="https://dl.acm.org/doi/10.1145/3820038">Evaluating an LLM-Powered Chatbot for Cognitive Restructuring: Insights from Users and Mental Health Professionals.</a><br>Yinzhou Wang, <strong>Yimeng Wang</strong>, Ye Xiao, Liabette Escamilla, Bianca Augustine, Kelly Crace, Gang Zhou, Yixuan Zhang
 </div>
 </div>
+
+<div class="pub-item">
+<div class="pub-venue">IWC</div>
+<div class="pub-details">
+Same Trust, Different Paths: How Older Adults Reach Similar AI Trust Through Use and Non-Use</a><br><strong>Yimeng Wang</strong>, Alicia Hong, Yixuan Zhang
+</div>
+</div>
+
+
 
 </div>
 
