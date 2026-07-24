@@ -47,7 +47,7 @@ title: Publications
 <div class="pub-item">
 <div class="pub-venue">IWC</div>
 <div class="pub-details">
-Same Trust, Different Paths: How Older Adults Reach Similar AI Trust Through Use and Non-Use</a><br><strong>Yimeng Wang</strong>, Alicia Hong, Yixuan Zhang
+<a>Same Trust, Different Paths: How Older Adults Reach Similar AI Trust Through Use and Non-Use</a><br><strong>Yimeng Wang</strong>, Alicia Hong, Yixuan Zhang
 </div>
 </div>
 
