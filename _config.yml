@@ -1,5 +1,9 @@
 title: Yimeng Wang
-url: https://YimengYvonne.github.io
+# NOTE: keep this in sync with the CNAME file whenever the custom domain changes.
+# Internal templates use root-relative paths (not this value), so this only
+# affects things that must be a fully-qualified URL: canonical links, Open
+# Graph/Twitter meta tags, and sitemap.xml.
+url: https://yimeng.byte-owl.com
 
 # Owner/author information
 owner:
@@ -8,8 +12,8 @@ owner:
   email: ywang139@wm.edu
   linkedin: yimeng-wang-849aa9276
   scholar: https://scholar.google.com/citations?user=sx33W_4AAAAJ
-  cv: https://YimengYvonne.github.io/resume.pdf
-  
+  cv: /resume.pdf
+
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership

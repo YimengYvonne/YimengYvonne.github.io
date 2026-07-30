@@ -1,3 +1,5 @@
+---
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -5,25 +7,26 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<!-- URLs below are built from _config.yml's `url` value, so this file auto-resolves on domain changes. -->
 
 
 <url>
-  <loc>https://yimengyvonne.github.io/</loc>
+  <loc>{{ site.url }}/</loc>
   <lastmod>2024-05-15T04:51:31+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://yimengyvonne.github.io/publications/</loc>
+  <loc>{{ site.url }}/publications/</loc>
   <lastmod>2024-05-15T04:51:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://yimengyvonne.github.io/Experiences/</loc>
+  <loc>{{ site.url }}/Experiences/</loc>
   <lastmod>2024-05-15T04:51:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://yimengyvonne.github.io/resume.pdf</loc>
+  <loc>{{ site.url }}/resume.pdf</loc>
   <lastmod>2024-05-15T04:51:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
