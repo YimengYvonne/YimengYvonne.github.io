@@ -36,5 +36,6 @@ SIGCHI Late Breaking Work (*CHI LBW* 2024, 2025)
 
 ### Voluntary Experience
 
+- Student Volunteer Chair for the SIGCHI Conference on Human Factors in Computing Systems (CHI 2027) 
 - Student Volunteer for the SIGCHI Conference on Human Factors in Computing Systems (CHI2025) *2025*
   
