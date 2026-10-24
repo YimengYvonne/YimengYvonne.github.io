@@ -29,8 +29,10 @@ title: Experiences
 - Poster presentation in Computing Research Association Grad Cohort Workshops (CRA-WP). *Apr 2024*
 
 ### Teaching Assistant
-Lecturer: Duties including preparing course materials, having lectures, holding office hours.
 
+Instructor: Duties including preparing course materials, delivering lectures, and holding office hours.
+
+- Intergenerational Storytelling with AI: Learn, Create & Connect Across Generations[https://education.wm.edu/centers/osher/_documents/fa26-course-catalog-spreads.pdf] (Osher Lifelong Learning Institute, William & Mary) *Fall 2026*
 - Scientific Computing with Python (FA23-ACMS-20220) *Fall 2023*
 
 Assistant: Duties including validating course materials, holding office hours, attending classes, and grading exams.
