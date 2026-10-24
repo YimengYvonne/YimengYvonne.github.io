@@ -32,7 +32,7 @@ title: Experiences
 
 Instructor: Duties including preparing course materials, delivering lectures, and holding office hours.
 
-- <a href="https://education.wm.edu/centers/osher/_documents/fa26-course-catalog-spreads.pdf"></a>Intergenerational Storytelling with AI: Learn, Create & Connect Across Generations (Osher Lifelong Learning Institute, William & Mary) *Fall 2026*
+- <a href="https://education.wm.edu/centers/osher/_documents/fa26-course-catalog-spreads.pdf">Intergenerational Storytelling with AI: Learn, Create & Connect Across Generations</a> (Osher Lifelong Learning Institute, William & Mary) *Fall 2026*
 - Scientific Computing with Python (FA23-ACMS-20220) *Fall 2023*
 
 Assistant: Duties including validating course materials, holding office hours, attending classes, and grading exams.
