@@ -13,14 +13,14 @@ Delivered a talk for CSCI 420/520 Course entitled **"Quantitative Methods for HC
 ### Academic Reviews
 
 Poster Track Associate Chairs (*CHI LBW* 2026)<br>
-CHI Conference on Human Factors in Computing Systems (*CHI* 2026)<br>
+CHI Conference on Human Factors in Computing Systems (*CHI* 2026-2027)<br>
 ACM Conference on Computer-Supported Cooperative Work and Social Computing (*CSCW* 2026)<br>
 ACM Symposium on User Interface Software and Technology (*UIST* 2026)<br>
 Interaction Design and Children (*IDC* 2026) <br>
-International Journal of Human–Computer Interaction (*HIHC* 2025)<br>
+International Journal of Human–Computer Interaction (*HIHC* 2025-2026)<br>
 Journal of Medical Internet Research (*JMIR* 2026)<br>
 International Conference on Human-Agent Interaction (*HAI* 2026) <br>
-ACM Transactions on Computing for Healthcare (*HEALTH* 2024, 2025)<br>
+ACM Transactions on Computing for Healthcare (*HEALTH* 2024-2026)<br>
 Human–Machine Communication (*HMC* 2025)<br>
 SIGCHI Late Breaking Work (*CHI LBW* 2024, 2025)
 
